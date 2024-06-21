@@ -1,5 +1,7 @@
 # Self-Elicitation of Requirements with Automated GUI Prototyping
 
+[![DOI](https://zenodo.org/badge/818248072.svg)](https://zenodo.org/doi/10.5281/zenodo.12205445)
+
 The supplementary material of our submission to the ASE 2024 conference is structured as follows:
 
 - **few-shot-prompting**: This directory contains a few-shot prompting example and a more detailed explanation of the employed prompting template for GUI feature prediction
